@@ -1,11 +1,9 @@
 ## Hello there, I'm Lucas Lana 👋
 
-<aside>
 Estudante de Ciência da Computação na Universidade Federal de Viçosa (UFV), com uma forte paixão por tecnologia e desenvolvimento de software. Minhas experiências acadêmicas e pessoais têm confirmado minha vocação para a área, onde busco constantemente desafios que me permitam crescer e aprimorar minhas habilidades.
 
-Busco oportunidades que me permitam entender melhor o funcionamento do mercado e ganhar experiência prática em situações reais. No futuro, meu objetivo é trabalhar com desenvolvimento de inteligências artificiais, utilizando minha criatividade e conhecimento para contribuir com projetos inovadores.
-
-</aside>
+  Busco oportunidades que me permitam entender melhor o funcionamento do mercado e ganhar experiência prática em situações reais. No futuro, meu objetivo é trabalhar com desenvolvimento de inteligências artificiais, utilizando minha criatividade e conhecimento para contribuir com projetos inovadores.
+  
 ##  Languages and Tools:
 <div style = "display: incline_block">
 <img align = "center" alt="html3" src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
