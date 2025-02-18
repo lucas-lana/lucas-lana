@@ -30,10 +30,3 @@ Estudante de Ciência da Computação na Universidade Federal de Viçosa (UFV), 
 
 <!--[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531991496949)-->
 [![likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lana21/)
-
-## Stats:
-<div>
-<a href="https://github.com/lucas-lana">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-lana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-lana&layout=compact&langs_count=7&theme=dracula"/>
-</div>
